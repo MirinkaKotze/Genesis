@@ -1,6 +1,8 @@
 # Genesis
 Beetroot Academy - Lesson 13
 
+Live Page URL: https://mirinkakotze.github.io/Genesis/
+
 Create the given figma file using HTML and CSS / SCSS.
 Add the fonts as in the design.
 
